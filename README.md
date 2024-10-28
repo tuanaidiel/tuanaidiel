@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tuan Muhammad Aidiel
 - 🌱 Graduated with Bachelor's Degree in Communications Engineering
 - 💞️ International Islamic University Malaysia
-- 🌱 Seeking opportunities in IT, Software Engineering, Front-End and Back-End Development, UI/UX Design
+- 🌱 Seeking opportunities in IT Executive, Software Developer, Front-End and Back-End Development, Web Developer
 - 📫 tuanaidiel@gmail.com
 
 <!---
