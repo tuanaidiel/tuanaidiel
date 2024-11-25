@@ -2,7 +2,8 @@
 - 🌱 Graduated with Bachelor's Degree in Communications Engineering
 - 💞️ International Islamic University Malaysia
 - 🌱 Seeking opportunities in IT Executive, Software Developer, Web Developer, Data Analyst or Machine Learning
-- 📫 tuanaidiel@gmail.com
+- 💞️ Portfolio: https://sites.google.com/view/aidiel-portfolio/about
+- 📫 Email: tuanaidiel@gmail.com
 
 <!---
 tuanaidiel/tuanaidiel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
