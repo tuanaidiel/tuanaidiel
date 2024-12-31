@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tuan Muhammad Aidiel
-- 🌱 Graduated with Bachelor's Degree in Communications Engineering
+- 🌱 Graduated with Bachelor's Degree in Communication Engineering
 - 💞️ International Islamic University Malaysia
-- 🌱 Seeking opportunities in IT Executive, Software Developer, Web Developer, Data Analyst or Machine Learning
+- 🌱 Seeking opportunities in IT Executive, Network Engineer, Software Engineer, Data Analyst or Machine Learning
 - 💞️ Portfolio: https://sites.google.com/view/aidiel-portfolio
 - 📫 Email: tuanaidiel@gmail.com
 
