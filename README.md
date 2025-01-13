@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Tuan Muhammad Aidiel
-- 🌱 Graduated with Bachelor's Degree in Communication Engineering
+- 🌱 Software Engineer at Novamed Technology Sdn Bhd
 - 💞️ International Islamic University Malaysia
-- 🌱 Seeking opportunities in IT Executive, Network Engineer, Software Engineer, Data Analyst or Machine Learning
-- 💞️ Portfolio: https://sites.google.com/view/aidiel-portfolio
+- ✨ Portfolio: https://sites.google.com/view/aidiel-portfolio
 - 📫 Email: tuanaidiel@gmail.com
 
 <!---
