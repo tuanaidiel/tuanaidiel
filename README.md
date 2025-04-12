@@ -2,7 +2,7 @@
 - 🌱 Software Engineer at Novamed Technology Sdn Bhd
 - ✨ Focusing on .NET and React Technologies
 - 💞️ Graduated from International Islamic University Malaysia
-- ✨ Portfolio: https://sites.google.com/view/aidiel-portfolio
+- ✨ Portfolio: https://aidiel-portfolio.vercel.app/
 - 📫 Email: tuanaidiel@gmail.com
 
 <!---
