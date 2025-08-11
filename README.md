@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tuan Muhammad Aidiel
-- 🌱 Software Engineer (.NET) at Novamed Technology Sdn Bhd
+- 🌱 Software Engineer at Novamed Technology Sdn Bhd
 - 💞️ Graduated from International Islamic University Malaysia
 - ✨ Portfolio: https://aidiel-portfolio.vercel.app/
 - 📫 Email: tuanaidiel@gmail.com
